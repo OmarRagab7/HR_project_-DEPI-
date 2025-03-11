@@ -43,7 +43,8 @@ The dataset consists of HR-related records, including:
 - Analyzed salary trends and department-wise performance.  
 
 ## 📊 Forecasting & Visualizations  
-(Forecasting charts, trend analysis, and key figures can be added here.)  
+![images ](![Picture2](https://github.com/user-attachments/assets/ccae5140-5512-4209-8a38-45d45300fd1b)
+)
 
 ## 👥 Team:
 - **Omar Ragab Ali**  
