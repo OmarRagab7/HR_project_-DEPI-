@@ -1,9 +1,12 @@
-# Human Resources Analytics Project  
-![HR Icon](images/hr_icon.png) 🦋 
+<h1 align="center">🏆 Human Resources Analytics Project</h1>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png" alt="HR Icon" width="250"/>
+</p>
 
 
 
-## 🏆 About the Project  
+## 🚀 About the Project 
 This project was developed as part of the **Digital Egypt Pioneers Initiative (DEPI)** under the supervision of industry experts. It focuses on analyzing HR data using **Python (Jupyter Notebook), SQL Server, Excel, and Tableau**, along with other essential data analytics tools.  
 
 
