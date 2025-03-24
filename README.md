@@ -42,8 +42,16 @@ This project harnesses powerful tools for seamless data processing, analysis, an
 - **🏢 Highest Turnover Departments:** *Sales, Production, Software Engineering*  
   - *Includes voluntary, involuntary, resignation, & retirement*  
 --- 
-### 🚀 Explore More About the dashboard 
-🔹 Check out the **interactive dashboard video** [**Here**](project_image's/interactive%20dashboard.mp4) 
+ 
+### 🎥 Explore More About the Dashboard  
+🔹 Watch the **interactive dashboard video**:  [**Here**](https://drive.google.com/file/d/1BjdJeIXb2auuJ5Lr9ByYCFW3NGsT3kV-/preview)
+ 
+
+<video width="800" controls>
+  <source src="project_image's/interactive_dashboard.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
