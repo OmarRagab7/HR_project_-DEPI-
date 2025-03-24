@@ -6,11 +6,11 @@
 
 
 
-## 🚀 About the Project 
+# 🚀 About the Project 
 This project was developed as part of the **Digital Egypt Pioneers Initiative (DEPI)** under the supervision of industry experts. It focuses on analyzing HR data using **Python (Jupyter Notebook), SQL Server, Excel, and Tableau**, along with other essential data analytics tools.  
 
 
-## 📂 Dataset Overview  
+# 📂 Dataset Overview  
 The dataset consists of HR-related records, including:  
 - Employee demographics and personal details.  
 - Performance metrics and evaluations.  
@@ -18,19 +18,54 @@ The dataset consists of HR-related records, including:
 - Attendance and turnover rates.  
 
 
-## 📌 Tools & Technologies  
+# 🛠 Tools & Technologies  
 
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-  Used for data manipulation, analysis, and visualization. Pandas and NumPy handle structured data, while Matplotlib and Seaborn create insightful visualizations for trend analysis.  
+This project leverages a combination of powerful tools and technologies for data processing, analysis, and visualization:  
 
-- 🛢 **SQL Server** (Data Extraction & Querying)  
-  Enables efficient data retrieval, transformation, and aggregation using complex SQL queries, joins, window functions, and stored procedures.  
+🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+Used for data manipulation, analysis, and visualization. Pandas and NumPy handle structured data, while Matplotlib and Seaborn create insightful visualizations for trend analysis.
 
-- 📊 **Excel** (Advanced Power Query & Pivot Tables)  
-  Used for data preprocessing, cleaning, and summarization. Power Query automates data transformation, while Pivot Tables provide dynamic data analysis.  
+🛢 **SQL Server** (Data Extraction & Querying)
+Enables efficient data retrieval, transformation, and aggregation using complex SQL queries, joins, window functions, and stored procedures.
 
-- 📉 **Tableau** (Interactive Dashboards & Visual Analytics)  
-  Allows the creation of dynamic, visually compelling dashboards with filters, drill-downs, and real-time data updates for enhanced decision-making.  
+📊 **Excel** (Advanced Power Query & Pivot Tables)
+Used for data preprocessing, cleaning, and summarization. Power Query automates data transformation, while Pivot Tables provide dynamic data analysis.
+
+📉 **Tableau** (Interactive Dashboards & Visual Analytics)
+Allows the creation of dynamic, visually compelling dashboards with filters, drill-downs, and real-time data updates for enhanced decision-making.
+
+
+
+
+## 📊 Interactive Dashboard  
+
+Explore the HR data insights through an interactive Tableau dashboard:  
+
+[![Watch the Dashboard Demo](video_thumbnail.png)]()  
+
+📌 **Click on the image to watch the full dashboard demo.**  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📅 Project Timeline 
 The project was completed over a span of **4 weeks**, with each week focusing on a different aspect of HR data analysis:  
