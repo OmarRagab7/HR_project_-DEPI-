@@ -1,7 +1,7 @@
 <h1 align="center">🏆 Human Resources Analytics Project</h1>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png" alt="HR Icon" width="150"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png" alt="HR Icon" width="200"/>
 </p>
 
 
@@ -75,10 +75,11 @@ The project was completed over a span of **4 weeks**, with each week focusing on
 
 ---
 
-## 👥 Team Members
-- **[Omar Ragab Ali](https://www.linkedin.com/in/omar-ragab-ali/)** [**Team Leader**]  
-- **[Sereen Ahmed Saeed](https://www.linkedin.com/in/sereen-ahmed-saeed/)**  
-- **[Rahma Mohamed Saad](https://www.linkedin.com/in/rahma-mohamed-saad/)**  
-- **[Youssef Ayman Abdel-Sabour](https://www.linkedin.com/in/youssef-ayman-abdel-sabour/)**  
-- **[Mazen Abu Bakr Mohamed](https://www.linkedin.com/in/mazen-abu-bakr-mohamed/)**  
+## 👥 Meet Our Team
+We are a dedicated team committed to delivering high-quality HR analytics solutions.
+- **[Omar Ragab Ali](www.linkedin.com/in/omar-rageb)**
+- **[Sereen Ahmed Saeed](https://www.linkedin.com/in/sereen-alsid-16993231a)**
+- **[Rahma Mohamed Saad](https://www.linkedin.com/in/rahma-mohammed-326167295)**
+- **[Youssef Ayman Abdel-Sabour](https://www.linkedin.com/in/youssefayman8)**
+- **[Mazen Abu Bakr Mohamed](http://linkedin.com/in/mazen-el-nady-39b054289)**
 
