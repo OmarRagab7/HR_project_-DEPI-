@@ -39,11 +39,9 @@ Allows the creation of dynamic, visually compelling dashboards with filters, dri
 
 ## 📊 Interactive Dashboard  
 
-Explore the HR data insights through an interactive Tableau dashboard:  
+🎥 **Watch the Dashboard Demo**:  
+[Download Interactive Dashboard Video](project_image's/interactivedashboard.mp4)  
 
-[![Watch the Dashboard Demo](video_thumbnail.png)]()  
-
-📌 **Click on the image to watch the full dashboard demo.**  
 
 
 
