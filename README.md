@@ -10,7 +10,7 @@
 This project was developed as part of the **Digital Egypt Pioneers Initiative (DEPI)** under the supervision of industry experts. It focuses on analyzing HR data using **Python (Jupyter Notebook), SQL Server, Excel, and Tableau**, along with other essential data analytics tools.  
 
 
-# 🚀 Tools & Technologies
+# 🚀  Tech Stack
 
 This project harnesses powerful tools for seamless data processing, analysis, and visualization:
 
