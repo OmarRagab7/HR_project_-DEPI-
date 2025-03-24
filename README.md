@@ -1,7 +1,7 @@
 <h1 align="center">🏆 Human Resources Analytics Project</h1>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png" alt="HR Icon" width="250"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/3135/3135715.png" alt="HR Icon" width="150"/>
 </p>
 
 
@@ -10,93 +10,75 @@
 This project was developed as part of the **Digital Egypt Pioneers Initiative (DEPI)** under the supervision of industry experts. It focuses on analyzing HR data using **Python (Jupyter Notebook), SQL Server, Excel, and Tableau**, along with other essential data analytics tools.  
 
 
-# 📂 Dataset Overview  
-The dataset consists of HR-related records, including:  
-- Employee demographics and personal details.  
-- Performance metrics and evaluations.  
-- Salary distributions and job roles.  
-- Attendance and turnover rates.  
+# 🚀 Tools & Technologies
+
+This project harnesses powerful tools for seamless data processing, analysis, and visualization:
+
+- **🐍 Python** (Pandas, NumPy, Matplotlib, Seaborn) - Data manipulation & insightful trend visualization.
+- **🗄️ SQL Server** - Fast & efficient data extraction, transformation, and complex querying.
+- **📊 Excel** (Power Query & Pivot Tables) - Smart data cleaning, transformation, and dynamic analysis.
+- **📈 Tableau** - Interactive dashboards, real-time insights, and visually compelling analytics.
 
 
-# 🛠 Tools & Technologies  
+## 📊 HR Analytics Dashboard  
 
-This project leverages a combination of powerful tools and technologies for data processing, analysis, and visualization:  
-
-🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-Used for data manipulation, analysis, and visualization. Pandas and NumPy handle structured data, while Matplotlib and Seaborn create insightful visualizations for trend analysis.
-
-🛢 **SQL Server** (Data Extraction & Querying)
-Enables efficient data retrieval, transformation, and aggregation using complex SQL queries, joins, window functions, and stored procedures.
-
-📊 **Excel** (Advanced Power Query & Pivot Tables)
-Used for data preprocessing, cleaning, and summarization. Power Query automates data transformation, while Pivot Tables provide dynamic data analysis.
-
-📉 **Tableau** (Interactive Dashboards & Visual Analytics)
-Allows the creation of dynamic, visually compelling dashboards with filters, drill-downs, and real-time data updates for enhanced decision-making.
+### 🖥️ Visual Representation:
+📌 The dashboards below provide an interactive overview of these key HR metrics:
 
 
+![HR Overview Dashboard](project_image's/HR%20overview%20dashboard.jpg)  
 
+---
 
-## 📊 Interactive Dashboard  
+![HR Summary Dashboard](project_image's/HR%20summary%20dashboard.jpg)  
 
-🎥 **Watch the Dashboard Demo**:  
-[Download Interactive Dashboard Video](project_image's/interactivedashboard.mp4)  
+---  
 
+## 🔹 **Key Insights from the Dashboard**
+- **👥 Total Hired:** *2,458* | **📉 Turnover:** *12.9%* | **💰 Avg. Training Cost:** *$558.6*  
+- **📊 Gender Headcount:** *Male: 44% ($65,444)* | *Female: 56% ($64,793)*  
+- **😊 Employee Satisfaction:** *Highest: 369 (Female)* | *Lowest: 243 (Male)*  
+- **📈 Performance by Age:** *Most employees fully meet expectations; few need improvement (PIP)*  
+- **🏢 Highest Turnover Departments:** *Sales, Production, Software Engineering*  
+  - *Includes voluntary, involuntary, resignation, & retirement*  
+--- 
+### 🚀 Explore More About the dashboard 
+🔹 Check out the **interactive dashboard video** [**Here**](project_image's/interactive%20dashboard.mp4) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## 📅 Project Timeline 
 The project was completed over a span of **4 weeks**, with each week focusing on a different aspect of HR data analysis:  
 
-| 📆 Weeks        | 📌 Activities  |
-|----------------|--------------|
-| 1️⃣ **Week 1:** Data Cleaning & Preparation  <br> - Processed and cleaned raw HR data.  <br> - Handled missing values, duplicates, and inconsistencies.  | 2️⃣ **Week 2:** Analytical Insights  <br> - Formulated key business questions.  <br> - Conducted exploratory data analysis (EDA) and visualized findings.  |
-| 3️⃣ **Week 3:** Forecasting & Predictive Analysis  <br> - Applied predictive modeling techniques.  <br> - Generated forecasts for employee performance and retention.  | 4️⃣ **Week 4:** Dashboard & Final Presentation  <br> - Developed an interactive **Tableau dashboard** for data visualization.  <br> - Summarized findings and presented key takeaways.  |
+| 📆 **Weeks**     | 📌 **Activities**  |
+|-----------------|------------------|
+| 1️⃣ **Week 1:** Data Cleaning & Preparation  | - Processed and cleaned raw HR data.  <br> - Handled missing values, duplicates, and inconsistencies.  |
+| 2️⃣ **Week 2:** Analytical Insights  | - Formulated key business questions.  <br> - Conducted exploratory data analysis (EDA) and visualized findings.  |
+| 3️⃣ **Week 3:** Forecasting & Predictive Analysis  | - Applied predictive modeling techniques.  <br> - Generated forecasts for employee performance and retention.  |
+| 4️⃣ **Week 4:** Dashboard & Final Presentation  | - Developed an interactive **Tableau dashboard** for data visualization.  <br> - Summarized findings and presented key takeaways.  |
 
+---
 
+## 📈 Forecasting Dashboard 🖼️
 
+![Forecasting Insights](https://github.com/user-attachments/assets/4b3dc16f-0700-4a04-abdb-6a288fd6a36a)  
 
-## 📈 Key Insights & Findings  
-- Identified key factors influencing employee turnover.  
-- Predicted future hiring needs using **forecasting models**.  
-- Analyzed salary trends and department-wise performance.  
+## 📈 Forecasting Methodology  
 
-## 📈 Forecasting Methodology
-1. **Data Preprocessing** - Cleaning and structuring raw data.
-2. **Exploratory Data Analysis (EDA)** - Identifying trends and patterns.
-3. **Model Selection** - Using statistical or machine learning models.
-4. **Forecast Visualization** - Creating insightful plots and reports.
-5. **Evaluation & Insights** - Measuring accuracy and key takeaways.
+| 🔹 Step                 | 📝 Description |
+|-------------------------|------------------------------------------------|
+| **Data Preprocessing**  | Cleaned HR data, handled missing values, and ensured consistency. |
+| **Exploratory Data Analysis (EDA)**  | Analyzed employee engagement trends, training costs, and workforce distribution. |
+| **Model Selection**     | Applied predictive analytics for turnover forecasts and satisfaction scores. |
+| **Forecast Visualization** | Created interactive **Tableau dashboards** showcasing workforce trends and projections. |
+| **Evaluation & Insights**  | Measured prediction accuracy, identified key turnover factors, and optimized HR strategies. |
 
+---
 
-![Picture4](https://github.com/user-attachments/assets/4b3dc16f-0700-4a04-abdb-6a288fd6a36a)
-
-
-## 👥 Team:
-- **Omar Ragab Ali**  
-- **Rana Mohamed Al-Amawy**  
-- **Sereen Ahmed Saeed**  
-- **Rahma Mohamed Saad**  
-- **Youssef Ayman Abdel-Sabour**  
-- **Mazen Abu Bakr Mohamed**  
+## 👥 Team Members
+- **[Omar Ragab Ali](https://www.linkedin.com/in/omar-ragab-ali/)** [**Team Leader**]  
+- **[Sereen Ahmed Saeed](https://www.linkedin.com/in/sereen-ahmed-saeed/)**  
+- **[Rahma Mohamed Saad](https://www.linkedin.com/in/rahma-mohamed-saad/)**  
+- **[Youssef Ayman Abdel-Sabour](https://www.linkedin.com/in/youssef-ayman-abdel-sabour/)**  
+- **[Mazen Abu Bakr Mohamed](https://www.linkedin.com/in/mazen-abu-bakr-mohamed/)**  
 
