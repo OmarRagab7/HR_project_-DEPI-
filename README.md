@@ -48,6 +48,11 @@ This project harnesses powerful tools for seamless data processing, analysis, an
 
 ---
 
+## SCHEMA overview:
+
+![WhatsApp Image 2025-02-25 at 00 49 09_cae54c0f](https://github.com/user-attachments/assets/c92d4c39-828a-4cc2-aeae-7a2da4579799)
+
+
 ## 📅 Project Timeline 
 The project was completed over a span of **4 weeks**, with each week focusing on a different aspect of HR data analysis:  
 
