@@ -81,6 +81,15 @@ The project was completed over a span of **4 weeks**, with each week focusing on
 
 ---
 
+
+## 🏢 visualization charts preview:
+
+![HR Overview Dashboard](project_image's/visualization_charts.jpg)  
+
+
+
+---
+
 ##  👥 Meet Our Team
 We are a dedicated team committed to delivering high-quality HR analytics solutions.
 - **[Omar Ragab Ali](https://www.linkedin.com/in/omar-rageb)**
