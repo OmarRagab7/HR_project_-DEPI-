@@ -81,7 +81,7 @@ The project was completed over a span of **4 weeks**, with each week focusing on
 
 ---
 
-## 👥 Meet Our Team
+##  👥 Meet Our Team
 We are a dedicated team committed to delivering high-quality HR analytics solutions.
 - **[Omar Ragab Ali](https://www.linkedin.com/in/omar-rageb)**
 - **[Sereen Ahmed Saeed](https://www.linkedin.com/in/sereen-alsid-16993231a)**
