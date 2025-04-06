@@ -48,9 +48,19 @@ This project harnesses powerful tools for seamless data processing, analysis, an
 
 ---
 
+##  ERD digrame:
+
+![WhatsApp Image 2025-04-03 at 23 17 49_24030c71](https://github.com/user-attachments/assets/57de2e94-f46d-456e-b8de-5640648f824c)
+
+---
+
+
 ## SCHEMA overview:
 
 ![WhatsApp Image 2025-02-25 at 00 49 09_cae54c0f](https://github.com/user-attachments/assets/c92d4c39-828a-4cc2-aeae-7a2da4579799)
+
+
+
 
 
 ## 📅 Project Timeline 
