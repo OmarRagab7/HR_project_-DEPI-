@@ -26,7 +26,8 @@ This project harnesses powerful tools for seamless data processing, analysis, an
 📌 The dashboards below provide an interactive overview of these key HR metrics:
 
 
-![HR Overview Dashboard](project_image's/HR%20overview%20dashboard.jpg)  
+![HR Overview](https://github.com/user-attachments/assets/34ff1cf4-22c6-455a-99d9-590b1a87ac9f)
+)  
 
 ---
 
